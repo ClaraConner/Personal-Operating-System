@@ -2,11 +2,11 @@
 Creating my own personal operating system. In Progress. . .
 
 ## How to Run
-This program was created in a Linux/UNIX environment
-  Step One:   Open main.c and notice that a comment indicates where to change the input file name
-  Step Two:   Change the file name to your desired file ( I provide two example files )
-  Step Three: Run the Makefile by typing "make" in terminal
-  Step Four:  Observe the program executing the input file. The first 20 spots of memory will be printed
+This program was created in a Linux/UNIX environment <br/>
+  Step One:   Open main.c and notice that a comment indicates where to change the input file name <br/>
+  Step Two:   Change the file name to your desired file ( I provide two example files ) <br/>
+  Step Three: Run the Makefile by typing "make" in terminal <br/>
+  Step Four:  Observe the program executing the input file. The first 20 spots of memory will be printed <br/>
 
 ## About My OS
 
